@@ -1,0 +1,9 @@
+# Owners for the whole repository
+# *       @global-owner1 @global-owner2
+
+# Owners for a specific subfolder
+/az-project-1/    @shivakumar-darapu
+
+# Owners for another subfolder
+# /az-project-2/    @team2 @user2
+/az-project-2/    @dev-sec-opss
